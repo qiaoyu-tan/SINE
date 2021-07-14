@@ -20,7 +20,7 @@ Accepted to WSDM 2021
 
 - Install Faiss-GPU based on the instructions here: https://github.com/facebookresearch/faiss/blob/master/INSTALL.md
 
-- Clone this repo `git clone https://github.com/THUDM/ComiRec`.
+- Clone this repo `git clone https://github.com/Qiaoyut/SINE.git`.
 
 ### Dataset
 
